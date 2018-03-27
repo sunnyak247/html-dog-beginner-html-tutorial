@@ -1,1 +1,1 @@
-This is the HTML dog's beginner tutorial undertaken towards completeing th eodin project.
+This is the HTML dog's beginner tutorial undertaken towards completing the odin project.
